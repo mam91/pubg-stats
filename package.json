@@ -1,0 +1,18 @@
+{
+  "name": "PubgStats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "battlegrounds": "^1.5.2",
+    "mongoose": "^5.6.11",
+    "pubg-api": "^1.1.2",
+    "request": "^2.88.0"
+  }
+}
