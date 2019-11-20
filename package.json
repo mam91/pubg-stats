@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "battlegrounds": "^1.5.2",
-    "mongoose": "^5.6.11",
+    "mongoose": "^5.7.5",
     "pubg-api": "^1.1.2",
     "request": "^2.88.0"
   }
